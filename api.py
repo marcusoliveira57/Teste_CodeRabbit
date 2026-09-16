@@ -1,7 +1,7 @@
 import requests
 
 # [!] Secret hardcoded
-API_KEY = "sk_live_1234567890abcdef1234567890abcdef"
+API_KEY = "minha_chave_secreta_api_12346"
 
 # [~] Sem tratamento de erro em fetch()
 def fetch(endpoint):
